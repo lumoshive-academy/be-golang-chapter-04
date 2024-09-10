@@ -21,7 +21,7 @@ git config --list
 
 ```
 
-## perintah dasar pada git
+## Perintah Dasar Pada Git
 
 Git memiliki berbagai perintah untuk membantu dalam pengelolaan versi kode sumber. Berikut adalah beberapa perintah dasar Git yang sering digunakan:
 
